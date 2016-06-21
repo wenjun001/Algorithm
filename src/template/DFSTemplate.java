@@ -10,7 +10,7 @@ public class DFSTemplate {
 
     public static void main(String[] args) {
 
-        String[] source = {"a","b"};
+        String[] source = {"a","b","c"};
         List<List<String>> res = new ArrayList<>();
         List<String> temp = new ArrayList<>();
 
